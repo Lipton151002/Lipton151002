@@ -2,7 +2,7 @@
   <img width="564" height="526" alt="avatar" src="https://github.com/user-attachments/assets/e7657829-29cf-4876-999a-a536a89da6aa" />
 </p>
 
-<h1 align="center">Hi, I'm Vladosik 👋</h1>
+<h1 align="center">Hi, I'm Vlados 👋</h1>
 
 <p align="center">
   <b>Full-Stack Developer · Python · Java</b><br/>
