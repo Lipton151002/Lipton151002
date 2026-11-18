@@ -18,7 +18,7 @@
 ## 🚀 Featured project
 
 **[240mods.com](https://240mods.com)** — built end to end: website, admin panel, Discord bot and the servers it all runs on.
-<br/><sub>🇷🇺 Моды для GTA5RP: сайт, админка, Discord-бот и серверы — полностью моя разработка.</sub>
+<br/><sub>Моды для GTA5RP: сайт, админка, Discord-бот и серверы — полностью моя разработка.</sub>
 
 ---
 
